@@ -1,0 +1,62 @@
+[
+{
+  id:1,
+  name:"Sakshi Karmarkar",
+  email:"sakshikarmarkar@gmail.com",
+  imgUrl:"./assets/images/image1.jpg"
+ },
+ {
+  id:2,
+  name:"Samrudhi Upadhye",
+  email:"samrudhiupadhye@gmail.com",
+  imgUrl:"./assets/images/image4.jpg"
+ },
+ {
+  id:3,
+  name:"Samiksha Chatterjee",
+  email:"samikshachatterjee@gmail.com",
+  imgUrl:"./assets/images/image3.jpg"
+ },
+ {
+  id:4,
+  name:"Saket Patil",
+  email:"saketpatil@gmail.com",
+  imgUrl:"./assets/images/image2.jpg"
+ },
+ {
+  id:5,
+  name:"Sarthak Nanwani",
+  email:"sarthaknanwani@gmail.com",
+  imgUrl:"./assets/images/image5.jpg"
+ },
+ {
+  id:6,
+  name:"Anisha Patel",
+  email:"anishapatel@gmail.com",
+  imgUrl:"./assets/images/image1.jpg"
+ },
+ {
+  id:7,
+  name:"Mrunmayee Gokhale",
+  email:"mrunmayeegokhale@gmail.com",
+  imgUrl:"./assets/images/image4.jpg"
+ },
+ {
+  id:8,
+  name:"Janhavi Parmane",
+  email:"janhaviparmane@gmail.com",
+  imgUrl:"./assets/images/image3.jpg"
+ },
+ {
+  id:9,
+  name:"Tejas Shingare",
+  email:"tejasshingare@gmail.com",
+  imgUrl:"./assets/images/image2.jpg"
+ },
+ {
+  id:10,
+  name:"Tanmay Pandit",
+  email:"tanmaypandit@gmail.com",
+  imgUrl:"./assets/images/image5.jpg"
+ }
+]
